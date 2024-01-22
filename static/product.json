@@ -1,0 +1,100 @@
+{
+  "name": "Samsung Galaxy S23 Plus 5G",
+  "brand": "SAMSUNG",
+  "price": "£880.00",
+  "attributes": [
+    {
+      "label": "Sim",
+      "value": "DUAL SIM"
+    },
+    {
+      "label": "Condition",
+      "value": "LIKE NEW"
+    },
+    {
+      "label": "Colour",
+      "value": "LAVENDER"
+    },
+    {
+      "label": "Network",
+      "value": "UNLOCKED"
+    },
+    {
+      "label": "Storage",
+      "value": "512GB"
+    }
+  ],
+  "media": [
+    {
+      "id": 1,
+      "type": "image",
+      "thumb": "/images/products/image1-thumb.jpeg",
+      "standard": "/images/products/image1-standard.jpeg",
+      "large": "/images/products/image1-large.jpeg"
+    },
+    {
+      "id": 2,
+      "type": "image",
+      "thumb": "/images/products/image2-thumb.jpeg",
+      "standard": "/images/products/image2-standard.jpeg",
+      "large": "/images/products/image2-large.jpeg"
+    },
+    {
+      "id": 3,
+      "type": "image",
+      "thumb": "/images/products/image3-thumb.jpeg",
+      "standard": "/images/products/image3-standard.jpeg",
+      "large": "/images/products/image3-large.jpeg"
+    },
+    {
+      "id": 4,
+      "type": "image",
+      "thumb": "/images/products/image4-thumb.jpeg",
+      "standard": "/images/products/image4-standard.jpeg",
+      "large": "/images/products/image4-large.jpeg"
+    },
+    {
+      "id": 5,
+      "type": "image",
+      "thumb": "/images/products/image5-thumb.jpeg",
+      "standard": "/images/products/image5-standard.jpeg",
+      "large": "/images/products/image5-large.jpeg"
+    },
+    {
+      "id": 6,
+      "type": "video",
+      "thumb": "/images/products/image6-thumb.jpeg",
+      "standard": "/images/products/image6-standard.jpeg",
+      "large": "/images/products/image6-large.jpeg",
+      "url": "/videos/video1.mp4",
+      "title": "Video1 - Samsung Galaxy S23 Plus 5G"
+    },
+    {
+      "id": 7,
+      "type": "video",
+      "thumb": "/images/products/image7-thumb.jpeg",
+      "standard": "/images/products/image7-standard.jpeg",
+      "large": "/images/products/image7-large.jpeg",
+      "url": "/videos/video2.mp4",
+      "title": "Video2 - Samsung Galaxy S23 Plus 5G"
+    },
+    {
+      "id": 10,
+      "type": "video",
+      "thumb": "/images/products/image8-thumb.jpeg",
+      "standard": "/images/products/image8-standard.jpeg",
+      "large": "/images/products/image8-large.jpeg",
+      "url": "/videos/video3.mp4",
+      "title": "Video3 - Samsung Galaxy S23 Plus 5G"
+    },
+    {
+      "id": 9,
+      "type": "video",
+      "thumb": "/images/products/image9-thumb.jpeg",
+      "standard": "/images/products/image9-standard.jpeg",
+      "large": "/images/products/image9-large.jpeg",
+      "url": "/videos/video4.mp4",
+      "title": "Video4 - Samsung Galaxy S23 Plus 5G"
+    }
+  ]
+}
