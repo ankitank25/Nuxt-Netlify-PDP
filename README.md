@@ -3,9 +3,11 @@
 Netlify site: https://65aef482f55f31689f086564--nuxt-pdp.netlify.app/
 
 ## Assets
+
 Assets are stored in `/public` directory.
 
 ## Product data
+
 Product loads from `product.json` file located in `/static` directory.
 
 ## Setup
