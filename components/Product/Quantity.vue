@@ -17,11 +17,11 @@ function decreaseQty(): void {
       -
     </button>
     <input
+      v-model="quantity"
       type="number"
       min="1"
       max="10"
       class="w-16 p-2 mx-4 align-middle bg-gray-300"
-      :value="quantity"
     />
     <button class="text-4xl align-middle" @click.prevent="increaseQty">
       +

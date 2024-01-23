@@ -267,7 +267,7 @@ onMounted(() => {
         <div
           ref="zoomContainerRef"
           :class="[
-            'img-container current-image overflow-hidden md:overflow-auto',
+            'disable-dbl-tap-zoom img-container current-image overflow-hidden md:overflow-auto',
             !isZoomed ? 'md:col-span-4 flex items-center md:items-start' : '',
           ]"
           @touchstart="touchStart"
@@ -367,6 +367,9 @@ onMounted(() => {
   </div>
 </template>
 <style scoped>
+.disable-dbl-tap-zoom {
+  touch-action: manipulation;
+}
 .zoomed {
   cursor: zoom-out;
   max-width: fit-content;
